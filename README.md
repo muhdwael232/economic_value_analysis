@@ -32,6 +32,7 @@ The workflow includes:
        - Remove non-country data (possible of redundancy data)
        - Add new column (continent_)
        - Exported cleaned dataset as CSV
+         
 3. SQL Queries
    - Imported cleaned CSV into SQL
    - Wrote queries to answer analysis questions such as:
@@ -39,3 +40,26 @@ The workflow includes:
      - Market cap by country
      - Market cap by continent
      - Growth trends over time
+    
+4. Power BI Dashboard
+   - Built interactive dashboards including:
+     - Executive Summary
+       - High-level status of the world market.
+     - Regional Analysis
+       - Compare continents and economic unions.
+     - Growth Trends
+       - Identify which markets are emerging or declining.
+
+**Key Insights**
+   - North America dominates global market capitalization.
+   - Asia shows strong long-term growth trends.
+   - Market capitalization exhibits cyclical volatility.
+   - Post-2000 period shows significant acceleration in global market growth.
+
+**Learning Outcomes**
+This project demonstrates:
+- End-to-end data pipeline development
+- Real-world data cleaning techniques
+- SQL analytical querying skills
+- Business intelligence dashboard development
+- Data storytelling for decision-making
